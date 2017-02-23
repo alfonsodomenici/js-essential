@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alfonsodomenici/javascript-essential.git"
+    "url": "git+https://github.com/alfonsodomenici/js-essential.git"
   },
   "bugs": {
-    "url": "https://github.com/alfonsodomenici/javascript-essential/issues"
+    "url": "https://github.com/alfonsodomenici/js-essential/issues"
   },
-  "homepage": "https://github.com/alfonsodomenici/javascript-essential#readme"
+  "homepage": "https://github.com/alfonsodomenici/js-essential#readme"
 }
